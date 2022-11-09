@@ -1,4 +1,4 @@
-package week1day3;
+package week2day4;
 /*
  * a) Declare An array for {3,2,11,4,6,7};	 
  * b) Declare another array for {1,2,8,4,9,7};
